@@ -1,0 +1,14 @@
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\bin\Debug\net8.0\Lab1_JoshuaGregory.exe
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\bin\Debug\net8.0\Lab1_JoshuaGregory.deps.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\bin\Debug\net8.0\Lab1_JoshuaGregory.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\bin\Debug\net8.0\Lab1_JoshuaGregory.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\bin\Debug\net8.0\Lab1_JoshuaGregory.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\Lab1_JoshuaGregory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\Lab1_JoshuaGregory.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\Lab1_JoshuaGregory.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\Lab1_JoshuaGregory.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\Lab1_JoshuaGregory.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\refint\Lab1_JoshuaGregory.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\Lab1_JoshuaGregory.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\Lab1_JoshuaGregory.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\ref\Lab1_JoshuaGregory.dll

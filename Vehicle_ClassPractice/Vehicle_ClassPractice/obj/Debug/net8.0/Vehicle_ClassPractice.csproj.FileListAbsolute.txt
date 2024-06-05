@@ -1,0 +1,14 @@
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\obj\Debug\net8.0\Vehicle_ClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\obj\Debug\net8.0\Vehicle_ClassPractice.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\obj\Debug\net8.0\Vehicle_ClassPractice.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\obj\Debug\net8.0\Vehicle_ClassPractice.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\bin\Debug\net8.0\Vehicle_ClassPractice.exe
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\bin\Debug\net8.0\Vehicle_ClassPractice.deps.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\bin\Debug\net8.0\Vehicle_ClassPractice.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\bin\Debug\net8.0\Vehicle_ClassPractice.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\bin\Debug\net8.0\Vehicle_ClassPractice.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\obj\Debug\net8.0\Vehicle_ClassPractice.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\obj\Debug\net8.0\refint\Vehicle_ClassPractice.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\obj\Debug\net8.0\Vehicle_ClassPractice.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\obj\Debug\net8.0\Vehicle_ClassPractice.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Vehicle_ClassPractice\Vehicle_ClassPractice\obj\Debug\net8.0\ref\Vehicle_ClassPractice.dll
