@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment2_JoshuaGregory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1412B733-DF4D-446C-A186-27729F37E661}|Assignment2_JoshuaGregory\\Assignment2_JoshuaGregory.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\assignment2_joshuagregory\\assignment2_joshuagregory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1412B733-DF4D-446C-A186-27729F37E661}|Assignment2_JoshuaGregory\\Assignment2_JoshuaGregory.csproj|solutionrelative:assignment2_joshuagregory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1412B733-DF4D-446C-A186-27729F37E661}|Assignment2_JoshuaGregory\\Assignment2_JoshuaGregory.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\assignment2_joshuagregory\\assignment2_joshuagregory\\english.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1412B733-DF4D-446C-A186-27729F37E661}|Assignment2_JoshuaGregory\\Assignment2_JoshuaGregory.csproj|solutionrelative:assignment2_joshuagregory\\english.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "English.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment2_JoshuaGregory\\Assignment2_JoshuaGregory\\English.cs",
+              "RelativeDocumentMoniker": "Assignment2_JoshuaGregory\\English.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment2_JoshuaGregory\\Assignment2_JoshuaGregory\\English.cs",
+              "RelativeToolTip": "Assignment2_JoshuaGregory\\English.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:59:30.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment2_JoshuaGregory\\Assignment2_JoshuaGregory\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2_JoshuaGregory\\Program.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment2_JoshuaGregory\\Assignment2_JoshuaGregory\\Program.cs",
+              "RelativeToolTip": "Assignment2_JoshuaGregory\\Program.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAIcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:14:46.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

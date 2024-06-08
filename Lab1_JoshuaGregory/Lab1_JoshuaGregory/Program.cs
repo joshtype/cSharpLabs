@@ -1,11 +1,7 @@
-﻿using System;
+﻿// Joshua Gregory; May 2024
+// Ascii-Art Car Maker & Reverser
+using System;
 using System.Reflection.Metadata.Ecma335;
-
-// Lab 1: C# 2d array manipulation
-// Joshua Gregory, May 2024
-// Use 2d char arrays to create an ascii car and its reverse image.
-// Display the cars separately and side by side.
-
 namespace Lab1_JoshuaGregory
 {
     internal class Program
