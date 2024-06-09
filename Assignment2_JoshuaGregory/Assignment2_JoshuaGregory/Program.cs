@@ -1,4 +1,4 @@
-﻿// Joshua Gregory; June 2024
+// Joshua Gregory; June 2024
 // Word Guessing Game Driver File
 // Requires English.cs that contains a List of 900 common English words.
 using System.Diagnostics.Tracing;
@@ -40,8 +40,11 @@ namespace Assignment2_JoshuaGregory
         }
 
         /**
-         * 
-         *
+         * Displays each English object of 'len' length that contains 'letters'.
+         * (Eg: len = 3, letters = "ct", matches = "act", "cat", etc.)
+         * @param English 'words' lisst of words in English.cs
+         * @param int 'len' length of English object words
+         * @param string 'pattern' to search for in 'wordList'
          */
         public static void guessWordWithLetters(English wordList, int len, string letters)
         {
@@ -83,7 +86,7 @@ namespace Assignment2_JoshuaGregory
 
         /**
          * Displays each English object of 'len' length that contains 'pattern'.
-         * (Eg: 'len' = 3, 'pattern' = "at", obj = "cat", "bat", "rat"...)
+         * (Eg: len = 3, pattern = "at", matches = "cat", "bat", "rat", etc.)
          * @param English 'words' lisst of words in English.cs
          * @param int 'len' length of English object words
          * @param string 'pattern' to search for in 'wordList'
