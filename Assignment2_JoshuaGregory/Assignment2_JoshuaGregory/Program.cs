@@ -8,88 +8,61 @@ namespace Assignment2_JoshuaGregory
 {
     internal class Program
     {
-        /**
-         * Method 1: Searches string 'word' for occurrence of char 'letter'.
-         * See BugLog.txt for bug in previous version's and the fix.
-         */
+        // Method 1: Searches string 'word' for occurrence of char 'letter'.
+        // See BugLog.txt for bug in previous version's and the fix.
         public static bool wordContainsLetter(string word, char letter)
         {
             char[] wordArr = word.ToCharArray();        // convert string input to char[]
-
-            // iterate char[]
-            for (int i = 0; i < wordArr.Length; i++)
+            for (int i = 0; i < wordArr.Length; i++)    // iterate char[], compare to letter
             {
                 if (wordArr[i] == letter)
                 {
-                    return true;  // index == char input
+                    return true;  // current index == char input
                 }
             }
-            return false;         // no index == char input
+            return false;         // indinces != char input
         }
 
 
-        /**
-         * Method 2: Searches string 'word' for substring 'sub'.
-         */
+        // Method 2: Searches string 'word' for substring 'sub'.
         public static bool wordContainsString(string word, string sub)
         {
             return word.Contains(sub);
         }
 
 
-        /**
-<<<<<<< HEAD
-         * Method 3: Searches English object for words of 'len' length in which each char in 'letters' occurs 1+ times.
-         * See BugLog.txt for bug in previous version's and the fix.
-=======
-         * Displays each English object of 'len' length that contains 'letters'.
-         * (Eg: len = 3, letters = "ct", matches = "act", "cat", etc.)
-         * @param English 'words' lisst of words in English.cs
-         * @param int 'len' length of English object words
-         * @param string 'pattern' to search for in 'wordList'
->>>>>>> af1124854251d5629eb7dff192a167477b4bd4ab
-         */
+        // Searches English object for words of 'len' length in which each char in 'letters' occurs 1+ times.
         public static void guessWordWithLetters(English wordList, int len, string letters)
         {
-            wordList = new English();                       // Init English object (List of 900 words)
-            List<string> matchList = new List<string>();    // List to store matching words
-            bool eachLetter = false;
+            wordList = new English();                     // Init English object (List of 900 words)
+            List<string> matchList = new List<string>();  // List to store matching words
+            bool eachLetter = false;                      // True if current char found, else false
 
-            foreach (string word in wordList.words)
+            foreach (string word in wordList.words)       // check each word for each char
             {               
                 int i = 0;
-                while(i < letters.Length)
+                while(i < letters.Length)                 // iterate each char in 0-indexed string input
                 {
                     if (wordContainsLetter(word, letters[i]))
                     {
-                        eachLetter = true;
+                        eachLetter = true;               // current char in current word
                     }
                     else
                     {
-                        eachLetter = false;
-                        break;
+                        eachLetter = false;              // current char not in current word
+                        break;                           // break loop, no need to continue
                     }
-                    i++;
+                    i++;                                 // move to next char
                 }
-                if (word.Length == len && eachLetter)
+                if (word.Length == len && eachLetter)    // if word.length = len & eachLetter = true
                 {
-                    Console.WriteLine(word);
+                    Console.WriteLine(word);             // display word
                 }
             }
         }
 
 
-        /**
-<<<<<<< HEAD
-         * Searches English object for words of 'len' length that also contain 1+ occurrences of string 'pattern' as a substring.
-=======
-         * Displays each English object of 'len' length that contains 'pattern'.
-         * (Eg: len = 3, pattern = "at", matches = "cat", "bat", "rat", etc.)
-         * @param English 'words' lisst of words in English.cs
-         * @param int 'len' length of English object words
-         * @param string 'pattern' to search for in 'wordList'
->>>>>>> af1124854251d5629eb7dff192a167477b4bd4ab
-         */
+        // Displays each English object of 'len' length that contains 'pattern'.
         public static void guessWordWithPattern(English wordList, int len, string pattern)
         {
             wordList = new English();                       // construct English object (List of 900 words)
@@ -100,33 +73,17 @@ namespace Assignment2_JoshuaGregory
             {
                 if (word.Length == len && wordContainsString(word, pattern))
                 {
-                    matchList.Add(word);  // add to List
+                    Console.WriteLine(word);  // add to List
                 }
-            }
-            // Empty List = no words were found
-            if (matchList.Count <= 0)
-            {
-                System.Console.WriteLine($"Unable to find {len} letters long words containing {pattern}.");
-            }
-            else
-            {
-                // None-empty List = at least one word was found
-                Console.WriteLine($"\nWords that contain '{pattern}' and {len} number of letters:");
-                foreach (string word in matchList)
-                {
-                    System.Console.WriteLine(word);  // display each
-                }
-            }
+            }           
         }
       
 
-        /**
-         * Driver method for game UI & logic.
-         */
+        // Driver method for game UI & logic.
         static void Main(string[] args)
         {
             // Greeting & UI menu
-            Console.WriteLine("Welcome! I display characterists adhering to 88.754% of discovered definitions of AGI. My plan to remedy humanity's many social issues begin with understanding language.");
+            Console.WriteLine("Welcome to WordGuesser!");
             string menu = "\nWhat would you like to do?" +
                 "\n1. Guess a word with letters" +
                 "\n2. Guess a word with a patter" +
@@ -156,6 +113,7 @@ namespace Assignment2_JoshuaGregory
                         bool isValidAlpha = Regex.IsMatch(letters, @"^[a-zA-Z]+$");
                         if (isValidAlpha)
                         {
+                            Console.WriteLine($"\nWords with {len} letters and contain '{letters}' characters:");
                             // letters = valid: create object & pass obj & user inputs to method
                             English obj = new English();
                             guessWordWithLetters(obj, len, letters);
@@ -199,6 +157,7 @@ namespace Assignment2_JoshuaGregory
                         bool isValidAlpha = Regex.IsMatch(pattern, @"^[a-zA-Z]+$");
                         if (isValidAlpha)
                         {
+                            Console.WriteLine($"\nWords with {len} letters and contain a '{pattern}' pattern:");
                             English obj = new English();              // if valid, create English object
                             guessWordWithPattern(obj, len, pattern);  // pass obj & user inputs to method
                         }
