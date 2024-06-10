@@ -1,4 +1,4 @@
-﻿// Joshua Gregory; June 2024
+// Joshua Gregory; June 2024
 // Word Guessing Game Driver File
 // (Requires English.cs that contains a List of 900 common English words.)
 using System.Diagnostics.Tracing;
@@ -38,8 +38,16 @@ namespace Assignment2_JoshuaGregory
 
 
         /**
+<<<<<<< HEAD
          * Method 3: Searches English object for words of 'len' length in which each char in 'letters' occurs 1+ times.
          * See BugLog.txt for bug in previous version's and the fix.
+=======
+         * Displays each English object of 'len' length that contains 'letters'.
+         * (Eg: len = 3, letters = "ct", matches = "act", "cat", etc.)
+         * @param English 'words' lisst of words in English.cs
+         * @param int 'len' length of English object words
+         * @param string 'pattern' to search for in 'wordList'
+>>>>>>> af1124854251d5629eb7dff192a167477b4bd4ab
          */
         public static void guessWordWithLetters(English wordList, int len, string letters)
         {
@@ -72,7 +80,15 @@ namespace Assignment2_JoshuaGregory
 
 
         /**
+<<<<<<< HEAD
          * Searches English object for words of 'len' length that also contain 1+ occurrences of string 'pattern' as a substring.
+=======
+         * Displays each English object of 'len' length that contains 'pattern'.
+         * (Eg: len = 3, pattern = "at", matches = "cat", "bat", "rat", etc.)
+         * @param English 'words' lisst of words in English.cs
+         * @param int 'len' length of English object words
+         * @param string 'pattern' to search for in 'wordList'
+>>>>>>> af1124854251d5629eb7dff192a167477b4bd4ab
          */
         public static void guessWordWithPattern(English wordList, int len, string pattern)
         {
