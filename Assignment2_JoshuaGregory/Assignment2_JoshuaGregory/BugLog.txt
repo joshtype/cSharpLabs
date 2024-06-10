@@ -1,0 +1,54 @@
+Summary:
+This is a word guessing game in which users input an integer and characters. These are used to search a list of 900 words which are accessed via external class objects of English.cs.
+V1 was operative but did not work as expected due to bug in wordContainsLetter(string word, char letter) and in guessWordsWithLetters(English obj, int len, string letters).
+The latter method searches the input English object's list of 900 words for those with len number of chars and in which each char of the input string occurs at least once.
+The former method converts the input string to a char[] then searches the array for the input char, returning true if found, else false. It is a helper method for guessWordsWithLetters().
+
+Bug:
+Passing guessWordsWithLetters(obj, 3, "at") would return words in which "at" occured as a substring. Eg: cat, rat, bat (which are valid words).
+However, it should also return words such as act, ant, art, eat, etc. Ie, words in which "a" and "t" both occur at least once.
+
+Fix: 
+In guessWordWithLetters(English obj, int len, string letters), logic within foreach was changed to a while loop that sets a bool value (broken if false or via incrementer).
+While i < number of letters in input string, each word in the English obj word list is checked to see if the first (or only) char occurs. 
+If the char is found, flag = true, i++. The next char is checked (if 2+ chars). Else, flag = false, loop breaks (no reason to continue).
+After loop terminates, if flag == true, words with length == len are displayed. Additionally, the new code has fewer lines and is more readable and elegant solution.
+
+This also required an update to wordContainsLetter(string word, char letter). V1 converted an input word (from the list of words) and returned the bool value of wordArr[i].Equals(letter).
+Equals() was removed and replaced with '=='. While iterating the char[], each index is now compared to input char using ==. Rather than returning the value of Equals(), the == operator is 
+now used in an if-else block. If == evaluates to true, then it returns true. Otherwise, it returns false. This is also more readable and concise.
+
+
+V1 Methods:
+public static bool wordContainsLetter(string word, char letter) {
+    char[] wordArr = word.ToCharArray();        // convert to char[]
+
+    // iterate wordArr comparing indices to letter
+    for(int i = 0; i < wordArr.Length; i++) {
+        return wordArr[i].Equals(letter);       // return true when found
+    }
+        return false;                           // char not in char arr
+}
+
+public static void guessWordWithLetters(English wordList, int len, string letters) {           
+    wordList = new English();                          // Flawed algorithm: init English obj,
+    char[] lettersArr = letters.ToCharArray();         // convert string input to char arr,
+    List<string> matchList = new List<string>();       // use new list to store matching words,
+    
+    foreach (string word in wordList.words) {          // iterate thru each word in object input,
+        if (word.Length == len) {                      // isolate words of 'len' length,
+            if (wordContainsString(word, letters)) {   // check if they contain 'letters',
+               matchList.Add(word);                    // add to List.
+            }
+        }
+    }
+    if (matchList.Count <= 0) {
+        System.Console.WriteLine($"Unable to find {len} letters long words containing {letters}."); }
+    } else { 
+        Console.WriteLine($"\nWords with {len} letters and containing {letters}:");
+        foreach (string word in matchList) {
+            System.Console.WriteLine(word); 
+        }
+    }
+}
+
