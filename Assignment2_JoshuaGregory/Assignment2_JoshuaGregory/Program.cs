@@ -86,7 +86,7 @@ namespace Assignment2_JoshuaGregory
             Console.WriteLine("Welcome to WordGuesser!");
             string menu = "\nWhat would you like to do?" +
                 "\n1. Guess a word with letters" +
-                "\n2. Guess a word with a patter" +
+                "\n2. Guess a word with a pattern" +
                 "\n3. Exit\n";
             // Loop guessing game until user exits
             do
