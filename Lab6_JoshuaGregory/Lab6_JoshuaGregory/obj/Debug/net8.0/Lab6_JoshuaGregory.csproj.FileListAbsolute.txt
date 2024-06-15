@@ -1,0 +1,15 @@
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\bin\Debug\net8.0\Lab6_JoshuaGregory.exe
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\bin\Debug\net8.0\Lab6_JoshuaGregory.deps.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\bin\Debug\net8.0\Lab6_JoshuaGregory.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\bin\Debug\net8.0\Lab6_JoshuaGregory.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\bin\Debug\net8.0\Lab6_JoshuaGregory.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\obj\Debug\net8.0\Lab6_JoshuaGregory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\obj\Debug\net8.0\Lab6_JoshuaGregory.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\obj\Debug\net8.0\Lab6_JoshuaGregory.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\obj\Debug\net8.0\Lab6_JoshuaGregory.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\obj\Debug\net8.0\Lab6_JoshuaGregory.sourcelink.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\obj\Debug\net8.0\Lab6_JoshuaGregory.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\obj\Debug\net8.0\refint\Lab6_JoshuaGregory.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\obj\Debug\net8.0\Lab6_JoshuaGregory.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\obj\Debug\net8.0\Lab6_JoshuaGregory.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab6_JoshuaGregory\Lab6_JoshuaGregory\obj\Debug\net8.0\ref\Lab6_JoshuaGregory.dll
