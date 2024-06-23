@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\RecursionPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B08E4D8-0EA6-4A53-A334-4F4512CB71AE}|RecursionPractice\\RecursionPractice.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\recursionpractice\\recursionpractice\\recurmodulus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B08E4D8-0EA6-4A53-A334-4F4512CB71AE}|RecursionPractice\\RecursionPractice.csproj|solutionrelative:recursionpractice\\recurmodulus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B08E4D8-0EA6-4A53-A334-4F4512CB71AE}|RecursionPractice\\RecursionPractice.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\recursionpractice\\recursionpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B08E4D8-0EA6-4A53-A334-4F4512CB71AE}|RecursionPractice\\RecursionPractice.csproj|solutionrelative:recursionpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B08E4D8-0EA6-4A53-A334-4F4512CB71AE}|RecursionPractice\\RecursionPractice.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\recursionpractice\\recursionpractice\\recurmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B08E4D8-0EA6-4A53-A334-4F4512CB71AE}|RecursionPractice\\RecursionPractice.csproj|solutionrelative:recursionpractice\\recurmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B08E4D8-0EA6-4A53-A334-4F4512CB71AE}|RecursionPractice\\RecursionPractice.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\recursionpractice\\recursionpractice\\recurmultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B08E4D8-0EA6-4A53-A334-4F4512CB71AE}|RecursionPractice\\RecursionPractice.csproj|solutionrelative:recursionpractice\\recurmultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B08E4D8-0EA6-4A53-A334-4F4512CB71AE}|RecursionPractice\\RecursionPractice.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\recursionpractice\\recursionpractice\\recurdivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B08E4D8-0EA6-4A53-A334-4F4512CB71AE}|RecursionPractice\\RecursionPractice.csproj|solutionrelative:recursionpractice\\recurdivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecurMath.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\RecursionPractice\\RecursionPractice\\RecurMath.cs",
+              "RelativeDocumentMoniker": "RecursionPractice\\RecurMath.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\RecursionPractice\\RecursionPractice\\RecurMath.cs",
+              "RelativeToolTip": "RecursionPractice\\RecurMath.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:48:07.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecurModulus.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\RecursionPractice\\RecursionPractice\\RecurModulus.cs",
+              "RelativeDocumentMoniker": "RecursionPractice\\RecurModulus.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\RecursionPractice\\RecursionPractice\\RecurModulus.cs",
+              "RelativeToolTip": "RecursionPractice\\RecurModulus.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:47:42.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecurMultiply.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\RecursionPractice\\RecursionPractice\\RecurMultiply.cs",
+              "RelativeDocumentMoniker": "RecursionPractice\\RecurMultiply.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\RecursionPractice\\RecursionPractice\\RecurMultiply.cs",
+              "RelativeToolTip": "RecursionPractice\\RecurMultiply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:47:28.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecurDivide.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\RecursionPractice\\RecursionPractice\\RecurDivide.cs",
+              "RelativeDocumentMoniker": "RecursionPractice\\RecurDivide.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\RecursionPractice\\RecursionPractice\\RecurDivide.cs",
+              "RelativeToolTip": "RecursionPractice\\RecurDivide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:47:13.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\RecursionPractice\\RecursionPractice\\Program.cs",
+              "RelativeDocumentMoniker": "RecursionPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\RecursionPractice\\RecursionPractice\\Program.cs",
+              "RelativeToolTip": "RecursionPractice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:46:54.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

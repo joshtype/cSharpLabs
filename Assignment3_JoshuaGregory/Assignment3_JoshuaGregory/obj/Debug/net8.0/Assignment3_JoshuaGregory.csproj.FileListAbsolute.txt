@@ -1,0 +1,15 @@
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\bin\Debug\net8.0\Assignment3_JoshuaGregory.exe
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\bin\Debug\net8.0\Assignment3_JoshuaGregory.deps.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\bin\Debug\net8.0\Assignment3_JoshuaGregory.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\bin\Debug\net8.0\Assignment3_JoshuaGregory.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\bin\Debug\net8.0\Assignment3_JoshuaGregory.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\obj\Debug\net8.0\Assignment3_JoshuaGregory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\obj\Debug\net8.0\Assignment3_JoshuaGregory.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\obj\Debug\net8.0\Assignment3_JoshuaGregory.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\obj\Debug\net8.0\Assignment3_JoshuaGregory.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\obj\Debug\net8.0\Assignment3_JoshuaGregory.sourcelink.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\obj\Debug\net8.0\Assignment3_JoshuaGregory.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\obj\Debug\net8.0\refint\Assignment3_JoshuaGregory.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\obj\Debug\net8.0\Assignment3_JoshuaGregory.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\obj\Debug\net8.0\Assignment3_JoshuaGregory.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Assignment3_JoshuaGregory\Assignment3_JoshuaGregory\obj\Debug\net8.0\ref\Assignment3_JoshuaGregory.dll

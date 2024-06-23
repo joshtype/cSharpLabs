@@ -1,0 +1,15 @@
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\bin\Debug\net8.0\RecursionPractice.exe
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\bin\Debug\net8.0\RecursionPractice.deps.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\bin\Debug\net8.0\RecursionPractice.runtimeconfig.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\bin\Debug\net8.0\RecursionPractice.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\bin\Debug\net8.0\RecursionPractice.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\obj\Debug\net8.0\RecursionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\obj\Debug\net8.0\RecursionPractice.AssemblyInfoInputs.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\obj\Debug\net8.0\RecursionPractice.AssemblyInfo.cs
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\obj\Debug\net8.0\RecursionPractice.csproj.CoreCompileInputs.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\obj\Debug\net8.0\RecursionPractice.sourcelink.json
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\obj\Debug\net8.0\RecursionPractice.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\obj\Debug\net8.0\refint\RecursionPractice.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\obj\Debug\net8.0\RecursionPractice.pdb
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\obj\Debug\net8.0\RecursionPractice.genruntimeconfig.cache
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\RecursionPractice\RecursionPractice\obj\Debug\net8.0\ref\RecursionPractice.dll

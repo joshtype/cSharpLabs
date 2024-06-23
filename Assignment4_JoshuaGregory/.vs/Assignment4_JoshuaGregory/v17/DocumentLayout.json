@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\assignment4_joshuagregory\\assignment4_joshuagregory\\simplifiedchinese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|solutionrelative:assignment4_joshuagregory\\simplifiedchinese.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\assignment4_joshuagregory\\assignment4_joshuagregory\\french.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|solutionrelative:assignment4_joshuagregory\\french.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\assignment4_joshuagregory\\assignment4_joshuagregory\\spanish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|solutionrelative:assignment4_joshuagregory\\spanish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\assignment4_joshuagregory\\assignment4_joshuagregory\\english.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|solutionrelative:assignment4_joshuagregory\\english.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\assignment4_joshuagregory\\assignment4_joshuagregory\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|solutionrelative:assignment4_joshuagregory\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\assignment4_joshuagregory\\assignment4_joshuagregory\\randnumguess.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|solutionrelative:assignment4_joshuagregory\\randnumguess.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\assignment4_joshuagregory\\assignment4_joshuagregory\\guessnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|solutionrelative:assignment4_joshuagregory\\guessnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|c:\\users\\atomi\\onedrive\\desktop\\ksu\\summer24\\proglab\\labs\\assignment4_joshuagregory\\assignment4_joshuagregory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07249AE-84AC-42D0-B86E-D8F49066CFFF}|Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory.csproj|solutionrelative:assignment4_joshuagregory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment4_JoshuaGregory\\Program.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\Program.cs",
+              "RelativeToolTip": "Assignment4_JoshuaGregory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:58:45.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuessNumber.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\GuessNumber.cs",
+              "RelativeDocumentMoniker": "Assignment4_JoshuaGregory\\GuessNumber.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\GuessNumber.cs",
+              "RelativeToolTip": "Assignment4_JoshuaGregory\\GuessNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:28:47.939Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandNumGuess.cd",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\RandNumGuess.cd",
+              "RelativeDocumentMoniker": "Assignment4_JoshuaGregory\\RandNumGuess.cd",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\RandNumGuess.cd",
+              "RelativeToolTip": "Assignment4_JoshuaGregory\\RandNumGuess.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-16T18:07:19.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\Language.cs",
+              "RelativeDocumentMoniker": "Assignment4_JoshuaGregory\\Language.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\Language.cs",
+              "RelativeToolTip": "Assignment4_JoshuaGregory\\Language.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:16:01.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "English.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\English.cs",
+              "RelativeDocumentMoniker": "Assignment4_JoshuaGregory\\English.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\English.cs",
+              "RelativeToolTip": "Assignment4_JoshuaGregory\\English.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:19:03.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spanish.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\Spanish.cs",
+              "RelativeDocumentMoniker": "Assignment4_JoshuaGregory\\Spanish.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\Spanish.cs",
+              "RelativeToolTip": "Assignment4_JoshuaGregory\\Spanish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:22:47.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "French.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\French.cs",
+              "RelativeDocumentMoniker": "Assignment4_JoshuaGregory\\French.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\French.cs",
+              "RelativeToolTip": "Assignment4_JoshuaGregory\\French.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:23:35.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimplifiedChinese.cs",
+              "DocumentMoniker": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\SimplifiedChinese.cs",
+              "RelativeDocumentMoniker": "Assignment4_JoshuaGregory\\SimplifiedChinese.cs",
+              "ToolTip": "C:\\Users\\atomi\\OneDrive\\Desktop\\KSU\\Summer24\\ProgLab\\Labs\\Assignment4_JoshuaGregory\\Assignment4_JoshuaGregory\\SimplifiedChinese.cs",
+              "RelativeToolTip": "Assignment4_JoshuaGregory\\SimplifiedChinese.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T22:24:00.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
