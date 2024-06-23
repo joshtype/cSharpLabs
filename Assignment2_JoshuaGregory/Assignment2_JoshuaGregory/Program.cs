@@ -1,6 +1,5 @@
 // Joshua Gregory; June 2024
-// Word Guessing Game Driver File
-// (Requires English.cs that contains a List of 900 common English words.)
+// Word Guessing Game; Driver
 using System.Diagnostics.Tracing;
 using System.Security.Cryptography.X509Certificates;
 using System.Text.RegularExpressions;

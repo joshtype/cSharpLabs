@@ -1,5 +1,5 @@
-// List of 900 most common English words for use in word guessing game.
-// Provided by KSU CCSWE (June 2024).
+// Provided by KSU CCSWE; June 2024
+// List of 900 common English words
 using System;
 using System.Collections.Generic;
 

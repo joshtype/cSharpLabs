@@ -71,7 +71,7 @@ namespace Lab3_JoshuaGregory
             if (qList.Count <= 0)
             {
                 // no questions in List
-                Console.WriteLine("Your quiz is already empty!.");
+                Console.WriteLine("Your quiz is already empty!");
             }
             else
             {

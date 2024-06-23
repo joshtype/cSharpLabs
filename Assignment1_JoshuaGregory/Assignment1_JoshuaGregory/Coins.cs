@@ -1,7 +1,7 @@
 ﻿// Joshua Gregory; June 2024
-// Money Dispenser -> Coins Class File
+// Money Dispenser; Coins Class
 using System;
-using System.Collections.Generic;
+using System.Collections.Generic; 
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;

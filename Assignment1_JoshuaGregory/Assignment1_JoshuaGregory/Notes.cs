@@ -1,8 +1,8 @@
 ﻿// Joshua Gregory; June 2024
-// Money Dispenser -> Notes Class File
+// Money Dispenser; Notes Class
 using System;
 using System.Collections.Generic;
-using System.Linq;
+using System.Linq; 
 using System.Text;
 using System.Threading.Tasks;
 

@@ -12,3 +12,4 @@ C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab
 C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\Lab1_JoshuaGregory.pdb
 C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\Lab1_JoshuaGregory.genruntimeconfig.cache
 C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\ref\Lab1_JoshuaGregory.dll
+C:\Users\atomi\OneDrive\Desktop\KSU\Summer24\ProgLab\Labs\Lab1_JoshuaGregory\Lab1_JoshuaGregory\obj\Debug\net8.0\Lab1_JoshuaGregory.sourcelink.json

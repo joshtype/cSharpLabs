@@ -1,7 +1,7 @@
 ﻿// Joshua Gregory; June 2024
-// Money Dispenser Driver File
+// Money Dispenser; Driver
 using System.Reflection.Metadata.Ecma335;
-
+ 
 namespace Assignment1_JoshuaGregory
 {
     internal class Program
